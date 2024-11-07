@@ -1,0 +1,10 @@
+# excel files
+*.xlsx
+
+# csv
+*.csv
+
+# media
+*.png
+*.jpg
+*.jpeg
